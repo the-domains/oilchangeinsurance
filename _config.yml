@@ -1,0 +1,28 @@
+name: oilchangeinsurance
+favicon: null
+layout_spectrum: 0.4467220879159868
+typography_spectrum: 0.47177888872101903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.15837051440030336
+  lightness: 0.28330056881532073
+  saturation: 0.8466104182880372
+  rhythmicContrast: 0.3371237860992551
+purpose: []
